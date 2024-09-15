@@ -30,7 +30,7 @@ export default function AccountManagement() {
             Delete Account
           </button>
           <p className={styles.warning}>
-            Warning: This will remove your role and you'll need to register again.
+            Warning: This will remove your role and you&apos;ll need to register again.
           </p>
         </div>
       </main>
